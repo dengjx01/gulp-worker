@@ -9,4 +9,4 @@
 
 3.安装完成后，运行 `npm run gulp start` 来初始化项目目录
 
-4.其它命令行在**gulpfile.js**中查看
+4.其它命令在**gulpfile.js**中查看
